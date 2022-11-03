@@ -1,0 +1,58 @@
+.brand {
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+
+.brand h2 {
+    margin: 1.5rem;
+}
+
+.brand i {
+    font-size: 1.3rem;
+    margin-left: .5rem;
+    border: 10px solid #141D2C;
+    border-radius: 50%;
+    background-color: #141D2C;
+}
+
+.contact {
+    margin-left: 8rem;
+}
+
+.contact h2, .subscribe h2 {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+
+.contact p {
+    font-size: .8rem;
+    line-height: 2rem;
+}
+
+.subscribe {
+    font-size: .9rem;
+}
+
+.form-subscribe {
+    display: flex;
+    margin-top: 1rem;
+}
+
+.form-control {
+    margin-top: .5rem;
+    width: 70%;
+    height: 10%;
+}
+
+
+
+.footer {
+    margin-top: 5rem;
+    background-color: hsl(210, 11%, 15%);
+}
+
+.copyright {
+    font-size: .7rem;
+    padding-top: 3rem;
+    margin: 1.5rem;
+}
